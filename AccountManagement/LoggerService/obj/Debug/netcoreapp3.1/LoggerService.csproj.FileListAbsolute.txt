@@ -1,0 +1,14 @@
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\bin\Debug\netcoreapp3.1\IRepository.dll
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\bin\Debug\netcoreapp3.1\IRepository.pdb
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\LoggerService\bin\Debug\netcoreapp3.1\DataLayer.pdb

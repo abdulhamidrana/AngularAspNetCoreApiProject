@@ -1,0 +1,354 @@
+2020-09-19 00:20:38.2522 INFO Returned all owners from database
+2020-09-19 00:42:23.9880 INFO Returned all owners from database
+2020-09-19 02:19:33.4351 INFO Returned all owners from database
+2020-09-19 02:32:55.4337 INFO Returned all owners from database
+2020-09-19 02:33:03.0883 INFO Returned all owners from database
+2020-09-19 02:33:15.7017 INFO Returned all owners from database
+2020-09-19 02:33:38.6243 INFO Returned all owners from database
+2020-09-19 02:33:49.4540 INFO Returned all owners from database
+2020-09-19 02:33:59.1731 INFO Returned all owners from database
+2020-09-19 02:34:04.2559 INFO Returned all owners from database
+2020-09-19 02:34:10.6487 INFO Returned all owners from database
+2020-09-19 02:34:37.8916 INFO Returned all owners from database
+2020-09-19 02:34:47.9982 INFO Returned all owners from database
+2020-09-19 02:34:54.9164 INFO Returned all owners from database
+2020-09-19 02:35:02.6451 INFO Returned all owners from database
+2020-09-19 02:35:08.4090 INFO Returned all owners from database
+2020-09-19 02:35:19.4042 INFO Returned all owners from database
+2020-09-19 02:35:26.1956 INFO Returned all owners from database
+2020-09-19 02:35:28.4514 INFO Returned all owners from database
+2020-09-19 02:35:57.4110 INFO Returned all owners from database
+2020-09-19 02:36:02.8340 INFO Returned all owners from database
+2020-09-19 08:36:12.1867 INFO Returned all owners from database
+2020-09-19 08:47:49.8883 INFO Returned all owners from database
+2020-09-19 08:48:21.0608 INFO Returned all owners from database
+2020-09-19 08:49:44.0214 INFO Returned all owners from database
+2020-09-19 08:50:06.6361 INFO Returned all owners from database
+2020-09-19 08:54:18.8672 INFO Returned all owners from database
+2020-09-19 08:55:45.4836 INFO Returned all owners from database
+2020-09-19 08:55:49.6228 INFO Returned all owners from database
+2020-09-19 08:55:53.8734 INFO Returned all owners from database
+2020-09-19 08:55:57.9186 INFO Returned all owners from database
+2020-09-19 08:56:09.6786 INFO Returned all owners from database
+2020-09-19 08:56:13.5181 INFO Returned all owners from database
+2020-09-19 08:57:37.1495 INFO Returned all owners from database
+2020-09-19 09:40:27.2118 INFO Returned all owners from database
+2020-09-19 09:40:46.8364 INFO Returned all owners from database
+2020-09-19 09:41:52.3335 INFO Returned all owners from database
+2020-09-19 09:44:15.2158 INFO Returned all owners from database
+2020-09-19 09:50:28.3604 INFO Returned all owners from database
+2020-09-19 10:09:26.9914 INFO Returned all owners from database
+2020-09-19 10:10:01.1726 INFO Returned all owners from database
+2020-09-19 10:11:09.7551 INFO Returned all owners from database
+2020-09-19 10:13:34.0841 INFO Returned all owners from database
+2020-09-19 10:19:15.9363 INFO Returned all owners from database
+2020-09-19 10:21:57.0244 INFO Returned all owners from database
+2020-09-19 10:22:48.4955 INFO Returned all owners from database
+2020-09-19 10:23:59.0289 INFO Returned all owners from database
+2020-09-19 10:25:03.0695 INFO Returned all owners from database
+2020-09-19 10:27:43.6930 INFO Returned all owners from database
+2020-09-19 10:29:32.1235 INFO Returned all owners from database
+2020-09-19 10:30:02.0072 INFO Returned all owners from database
+2020-09-19 10:30:19.7483 INFO Returned all owners from database
+2020-09-19 10:33:24.7869 INFO Returned all owners from database
+2020-09-19 10:33:54.1083 INFO Returned all owners from database
+2020-09-19 10:35:04.8861 INFO Returned all owners from database
+2020-09-19 10:35:35.0301 INFO Returned all owners from database
+2020-09-19 10:41:24.8244 INFO Returned all owners from database
+2020-09-19 10:41:42.4900 INFO Returned all owners from database
+2020-09-19 10:54:31.5039 INFO Returned all owners from database
+2020-09-19 10:54:55.0709 INFO Returned all owners from database
+2020-09-19 10:54:59.0662 INFO Returned all owners from database
+2020-09-19 10:55:03.7038 INFO Returned all owners from database
+2020-09-19 10:55:09.6498 INFO Returned all owners from database
+2020-09-19 10:55:13.8468 INFO Returned all owners from database
+2020-09-19 10:55:16.6667 INFO Returned all owners from database
+2020-09-19 10:55:20.1838 INFO Returned all owners from database
+2020-09-19 10:55:22.6260 INFO Returned all owners from database
+2020-09-19 10:55:27.7444 INFO Returned all owners from database
+2020-09-19 11:08:40.7455 INFO Returned all owners from database
+2020-09-19 11:15:22.3288 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 11:15:43.5874 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 11:15:55.2107 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 11:24:52.8248 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 11:24:59.7876 INFO Returned all owners from database
+2020-09-19 11:25:01.7530 INFO Returned Owner with details for id: 8ba4a04d-46e7-4492-c9ec-08d85b129f8a
+2020-09-19 11:26:05.5429 INFO Returned all owners from database
+2020-09-19 11:26:06.0615 INFO Returned Owner with details for id: 8ba4a04d-46e7-4492-c9ec-08d85b129f8a
+2020-09-19 11:26:07.9323 INFO Returned all owners from database
+2020-09-19 11:26:09.7890 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 11:26:11.8835 INFO Returned all owners from database
+2020-09-19 11:26:12.8563 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 11:26:14.6271 INFO Returned all owners from database
+2020-09-19 11:26:15.6429 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 11:26:30.2756 INFO Returned all owners from database
+2020-09-19 11:26:34.9433 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 11:26:49.9245 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 11:27:13.5350 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 11:27:17.7803 INFO Returned all owners from database
+2020-09-19 11:27:18.8882 INFO Returned Owner with details for id: 8ba4a04d-46e7-4492-c9ec-08d85b129f8a
+2020-09-19 11:27:19.9656 INFO Returned all owners from database
+2020-09-19 11:27:20.8918 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 11:27:22.4050 INFO Returned all owners from database
+2020-09-19 11:27:23.4407 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 11:27:47.7766 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 11:27:57.7698 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 11:28:28.5883 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 11:28:46.6589 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 11:29:12.5202 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 11:29:28.7198 INFO Returned all owners from database
+2020-09-19 11:29:37.2792 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 11:29:46.5804 INFO Returned all owners from database
+2020-09-19 11:29:53.1357 INFO Returned all owners from database
+2020-09-19 11:30:22.8846 INFO Returned all owners from database
+2020-09-19 11:30:26.0738 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 11:32:05.2365 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 11:33:15.4998 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 11:33:19.7489 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 11:33:21.3249 INFO Returned all owners from database
+2020-09-19 11:33:22.6114 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 11:33:23.4205 INFO Returned all owners from database
+2020-09-19 11:33:24.2686 INFO Returned Owner with details for id: 8ba4a04d-46e7-4492-c9ec-08d85b129f8a
+2020-09-19 11:35:47.7554 INFO Returned all owners from database
+2020-09-19 11:35:48.4682 INFO Returned all owners from database
+2020-09-19 11:35:49.2880 INFO Returned Owner with details for id: 8ba4a04d-46e7-4492-c9ec-08d85b129f8a
+2020-09-19 11:35:50.5178 INFO Returned all owners from database
+2020-09-19 11:35:51.3634 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 11:35:52.6455 INFO Returned all owners from database
+2020-09-19 11:35:53.4522 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 11:35:54.6560 INFO Returned all owners from database
+2020-09-19 11:35:55.6023 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 11:35:56.8835 INFO Returned all owners from database
+2020-09-19 11:35:57.7602 INFO Returned Owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2020-09-19 11:35:58.9429 INFO Returned all owners from database
+2020-09-19 11:36:03.0511 INFO Returned all owners from database
+2020-09-19 11:36:50.1886 INFO Returned Owner with details for id: 8ba4a04d-46e7-4492-c9ec-08d85b129f8a
+2020-09-19 11:36:51.6676 INFO Returned all owners from database
+2020-09-19 11:36:52.5970 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 11:36:54.3988 INFO Returned all owners from database
+2020-09-19 11:36:55.4929 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 11:37:30.6439 INFO Returned all owners from database
+2020-09-19 11:47:44.7067 INFO Returned all owners from database
+2020-09-19 11:51:08.6615 INFO Returned all owners from database
+2020-09-19 11:53:15.8502 INFO Returned all owners from database
+2020-09-19 11:59:37.5448 INFO Returned all owners from database
+2020-09-19 12:02:06.5770 INFO Returned all owners from database
+2020-09-19 12:03:38.5975 INFO Returned all owners from database
+2020-09-19 12:03:59.2541 INFO Returned all owners from database
+2020-09-19 12:05:48.6119 INFO Returned all owners from database
+2020-09-19 12:06:18.2176 INFO Returned all owners from database
+2020-09-19 12:08:16.5737 INFO Returned all owners from database
+2020-09-19 12:08:34.5802 INFO Returned all owners from database
+2020-09-19 12:09:06.2329 INFO Returned all owners from database
+2020-09-19 12:09:53.2444 INFO Returned all owners from database
+2020-09-19 12:11:16.8697 INFO Returned all owners from database
+2020-09-19 12:17:25.6013 INFO Returned all owners from database
+2020-09-19 15:23:55.5200 INFO Returned all owners from database
+2020-09-19 15:23:56.3005 INFO Returned all owners from database
+2020-09-19 15:23:59.3273 INFO Returned all owners from database
+2020-09-19 15:24:01.6622 INFO Returned Owner with details for id: 8ba4a04d-46e7-4492-c9ec-08d85b129f8a
+2020-09-19 15:24:03.2892 INFO Returned all owners from database
+2020-09-19 15:24:04.6149 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 15:24:06.4022 INFO Returned all owners from database
+2020-09-19 15:24:07.7124 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 15:24:15.0162 INFO Returned all owners from database
+2020-09-19 15:24:16.0892 INFO Returned Owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2020-09-19 15:24:18.4084 INFO Returned all owners from database
+2020-09-19 15:24:19.5248 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 15:24:22.7915 INFO Returned all owners from database
+2020-09-19 15:24:23.8868 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 15:24:56.4724 INFO Returned all owners from database
+2020-09-19 15:24:57.7363 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 15:25:04.4918 INFO Returned all owners from database
+2020-09-19 15:25:05.5241 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 15:25:09.0259 INFO Returned all owners from database
+2020-09-19 15:25:15.4071 INFO Returned all owners from database
+2020-09-19 15:31:14.4123 INFO Returned all owners from database
+2020-09-19 15:31:27.4118 INFO Returned all owners from database
+2020-09-19 15:31:35.9680 INFO Returned Owner with details for id: 8ba4a04d-46e7-4492-c9ec-08d85b129f8a
+2020-09-19 15:31:37.4896 INFO Returned all owners from database
+2020-09-19 15:31:56.6780 INFO Returned Owner with details for id: 8ba4a04d-46e7-4492-c9ec-08d85b129f8a
+2020-09-19 15:32:00.2920 INFO Returned all owners from database
+2020-09-19 15:32:07.1888 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 15:32:19.1471 INFO Returned all owners from database
+2020-09-19 15:32:20.1924 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 15:32:24.2250 INFO Returned all owners from database
+2020-09-19 15:32:31.1383 INFO Returned all owners from database
+2020-09-19 15:32:35.4795 INFO Returned all owners from database
+2020-09-19 15:36:42.8533 INFO Returned all owners from database
+2020-09-19 15:37:14.5551 INFO Returned all owners from database
+2020-09-19 15:40:34.1458 INFO Returned all owners from database
+2020-09-19 15:43:34.6921 INFO Returned all owners from database
+2020-09-19 15:43:46.2487 INFO Returned all owners from database
+2020-09-19 15:44:18.2716 INFO Returned all owners from database
+2020-09-19 15:47:48.6267 INFO Returned all owners from database
+2020-09-19 15:47:57.6909 INFO Returned all owners from database
+2020-09-19 15:48:03.2447 INFO Returned all owners from database
+2020-09-19 15:48:29.0957 INFO Returned all owners from database
+2020-09-19 15:48:48.1334 INFO Returned all owners from database
+2020-09-19 15:49:02.5285 INFO Returned all owners from database
+2020-09-19 15:49:47.2840 INFO Returned all owners from database
+2020-09-19 15:55:28.4887 INFO Returned all owners from database
+2020-09-19 15:55:31.0158 INFO Returned all owners from database
+2020-09-19 15:55:37.6056 INFO Returned all owners from database
+2020-09-19 15:55:45.4268 INFO Returned all owners from database
+2020-09-19 15:58:34.6225 INFO Returned all owners from database
+2020-09-19 16:00:06.7099 INFO Returned all owners from database
+2020-09-19 16:01:09.5969 INFO Returned all owners from database
+2020-09-19 16:04:23.6157 INFO Returned all owners from database
+2020-09-19 16:23:46.6418 INFO Returned all owners from database
+2020-09-19 16:24:24.6588 INFO Returned all owners from database
+2020-09-19 16:25:07.6063 INFO Returned all owners from database
+2020-09-19 16:30:15.6483 INFO Returned all owners from database
+2020-09-19 16:31:09.1615 INFO Returned all owners from database
+2020-09-19 16:32:28.8422 INFO Returned all owners from database
+2020-09-19 16:32:55.5130 INFO Returned all owners from database
+2020-09-19 16:33:36.6974 INFO Returned all owners from database
+2020-09-19 16:33:42.1340 INFO Returned Owner with details for id: 5b26d0e0-6b90-4ac3-3296-08d85c876bb4
+2020-09-19 16:33:43.3702 INFO Returned all owners from database
+2020-09-19 16:34:19.4103 INFO Returned all owners from database
+2020-09-19 16:36:37.3161 INFO Returned all owners from database
+2020-09-19 16:37:05.2400 INFO Returned all owners from database
+2020-09-19 16:37:16.3116 INFO Returned all owners from database
+2020-09-19 16:37:30.3228 INFO Returned all owners from database
+2020-09-19 16:37:39.2164 INFO Returned all owners from database
+2020-09-19 16:37:47.0817 INFO Returned all owners from database
+2020-09-19 16:38:39.9007 INFO Returned all owners from database
+2020-09-19 16:38:43.0993 INFO Returned all owners from database
+2020-09-19 16:39:49.4918 INFO Returned all owners from database
+2020-09-19 16:40:04.0003 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 16:40:05.7479 INFO Returned all owners from database
+2020-09-19 16:40:15.4243 INFO Returned all owners from database
+2020-09-19 16:41:12.5783 INFO Returned all owners from database
+2020-09-19 16:42:26.6697 INFO Returned all owners from database
+2020-09-19 16:43:12.5815 INFO Returned all owners from database
+2020-09-19 16:44:30.9722 INFO Returned all owners from database
+2020-09-19 16:46:26.8807 INFO Returned all owners from database
+2020-09-19 16:46:46.6074 INFO Returned all owners from database
+2020-09-19 16:48:34.6089 INFO Returned all owners from database
+2020-09-19 17:01:14.7751 INFO Returned all owners from database
+2020-09-19 17:01:16.9218 INFO Returned Owner with id : 8bce7b56-c0fb-40e4-3297-08d85c876bb4.
+2020-09-19 17:01:49.1190 INFO Returned all owners from database
+2020-09-19 17:01:54.3302 INFO Returned Owner with id : 8bce7b56-c0fb-40e4-3297-08d85c876bb4.
+2020-09-19 17:01:55.5967 INFO Returned all owners from database
+2020-09-19 17:01:56.9879 INFO Returned Owner with id : 8bce7b56-c0fb-40e4-3297-08d85c876bb4.
+2020-09-19 17:02:08.4868 INFO Returned all owners from database
+2020-09-19 17:02:17.1718 INFO Returned Owner with id : 65a1e1d5-902c-4f42-3299-08d85c876bb4.
+2020-09-19 17:02:18.3497 INFO Returned all owners from database
+2020-09-19 17:02:19.5338 INFO Returned Owner with id : 65a1e1d5-902c-4f42-3299-08d85c876bb4.
+2020-09-19 17:02:40.6371 INFO Returned all owners from database
+2020-09-19 17:02:42.9845 INFO Returned Owner with id : 65a1e1d5-902c-4f42-3299-08d85c876bb4.
+2020-09-19 17:02:51.0138 INFO Returned all owners from database
+2020-09-19 17:03:31.1431 INFO Returned Owner with id : a3c1880c-674c-4d18-8f91-5d3608a2c937.
+2020-09-19 17:03:32.9436 INFO Returned all owners from database
+2020-09-19 17:03:36.3746 INFO Returned Owner with id : 5761200c-3b47-4cd0-3298-08d85c876bb4.
+2020-09-19 17:03:42.9038 INFO Returned all owners from database
+2020-09-19 17:03:59.4375 INFO Returned all owners from database
+2020-09-19 17:05:07.6000 INFO Returned all owners from database
+2020-09-19 17:05:42.5672 INFO Returned all owners from database
+2020-09-19 17:06:37.6964 INFO Returned all owners from database
+2020-09-19 17:06:46.9722 INFO Returned all owners from database
+2020-09-19 17:08:54.5902 INFO Returned all owners from database
+2020-09-19 17:09:54.6467 INFO Returned all owners from database
+2020-09-19 17:14:34.7599 INFO Returned all owners from database
+2020-09-19 17:15:25.0087 INFO Returned Owner with id : 5761200c-3b47-4cd0-3298-08d85c876bb4.
+2020-09-19 17:15:29.7963 INFO Returned all owners from database
+2020-09-19 17:15:35.9202 INFO Returned Owner with id : 5b26d0e0-6b90-4ac3-3296-08d85c876bb4.
+2020-09-19 17:15:38.4518 INFO Returned all owners from database
+2020-09-19 17:15:42.5468 INFO Returned Owner with id : 8ba4a04d-46e7-4492-c9ec-08d85b129f8a.
+2020-09-19 17:15:44.6304 INFO Returned all owners from database
+2020-09-19 17:15:48.8427 INFO Returned Owner with details for id: 65a1e1d5-902c-4f42-3299-08d85c876bb4
+2020-09-19 17:15:49.9126 INFO Returned all owners from database
+2020-09-19 17:15:51.3960 INFO Returned Owner with id : 65a1e1d5-902c-4f42-3299-08d85c876bb4.
+2020-09-19 17:15:53.8347 INFO Returned all owners from database
+2020-09-19 17:15:58.4619 INFO Returned Owner with id : 8bce7b56-c0fb-40e4-3297-08d85c876bb4.
+2020-09-19 17:16:00.5910 INFO Returned all owners from database
+2020-09-19 18:58:28.5246 INFO Returned all owners from database
+2020-09-19 18:58:29.8381 INFO Returned all owners from database
+2020-09-19 18:59:00.0912 INFO Returned all owners from database
+2020-09-19 18:59:25.0830 INFO Returned all owners from database
+2020-09-19 18:59:32.7609 INFO Returned Owner with details for id: 302c7749-d3ee-498b-791f-08d85c9bc4a8
+2020-09-19 18:59:41.2756 INFO Returned all owners from database
+2020-09-19 18:59:46.3820 INFO Returned Owner with details for id: 302c7749-d3ee-498b-791f-08d85c9bc4a8
+2020-09-19 19:00:03.5907 INFO Returned all owners from database
+2020-09-19 19:00:05.3257 INFO Returned Owner with id : 302c7749-d3ee-498b-791f-08d85c9bc4a8.
+2020-09-19 19:00:07.8464 INFO Returned all owners from database
+2020-09-19 19:00:15.9539 INFO Returned Owner with details for id: 302c7749-d3ee-498b-791f-08d85c9bc4a8
+2020-09-19 19:00:29.9269 INFO Returned all owners from database
+2020-09-19 19:00:31.3435 INFO Returned Owner with id : 302c7749-d3ee-498b-791f-08d85c9bc4a8.
+2020-09-19 19:00:42.4319 INFO Returned all owners from database
+2020-09-19 19:00:46.5616 INFO Returned Owner with id : 302c7749-d3ee-498b-791f-08d85c9bc4a8.
+2020-09-19 19:01:17.7743 INFO Returned Owner with id : 302c7749-d3ee-498b-791f-08d85c9bc4a8.
+2020-09-19 19:12:44.1546 INFO Returned all owners from database
+2020-09-19 19:15:48.7955 INFO Returned Owner with id : 302c7749-d3ee-498b-791f-08d85c9bc4a8.
+2020-09-19 19:17:19.5093 INFO Returned all owners from database
+2020-09-19 19:17:31.9843 INFO Returned Owner with id : 302c7749-d3ee-498b-791f-08d85c9bc4a8.
+2020-09-19 19:19:46.0559 INFO Returned all owners from database
+2020-09-19 19:19:58.2616 INFO Returned all owners from database
+2020-09-19 19:23:20.1118 INFO Returned all owners from database
+2020-09-19 19:24:34.2006 INFO Returned Owner with id : 261e1685-cf26-494c-b17c-3546e65f5620.
+2020-09-19 19:24:35.3179 INFO Returned all owners from database
+2020-09-19 19:24:38.6313 INFO Returned Owner with id : 302c7749-d3ee-498b-791f-08d85c9bc4a8.
+2020-09-19 19:24:40.8886 INFO Returned all owners from database
+2020-09-19 19:29:47.7912 INFO Returned all owners from database
+2020-09-19 19:34:06.7300 INFO Returned all owners from database
+2020-09-19 19:34:09.2879 INFO Returned all owners from database
+2020-09-19 19:41:12.1184 INFO Returned Owner with id : f98e4d74-0f68-4aac-89fd-047f1aaca6b6.
+2020-09-19 19:41:37.2582 INFO Returned Owner with id : f98e4d74-0f68-4aac-89fd-047f1aaca6b6.
+2020-09-19 19:41:50.6578 INFO Returned all owners from database
+2020-09-19 19:41:52.9186 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 19:42:02.5973 INFO Returned all owners from database
+2020-09-19 19:44:23.9122 INFO Returned all owners from database
+2020-09-19 19:44:24.8352 INFO Returned all owners from database
+2020-09-19 19:44:30.8282 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 19:44:44.0143 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 19:45:17.0353 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 19:45:45.1897 INFO Returned all owners from database
+2020-09-19 19:46:08.5323 INFO Returned all owners from database
+2020-09-19 19:46:13.5793 INFO Returned all owners from database
+2020-09-19 19:46:17.1454 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 19:46:51.8968 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 19:46:56.5979 INFO Returned all owners from database
+2020-09-19 19:46:58.4021 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 19:47:14.8817 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 19:47:43.5402 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 19:48:00.5258 INFO Returned all owners from database
+2020-09-19 19:49:13.3544 INFO Returned all owners from database
+2020-09-19 19:49:42.9630 INFO Returned all owners from database
+2020-09-19 19:49:51.4334 INFO Returned all owners from database
+2020-09-19 19:52:15.4114 INFO Returned all owners from database
+2020-09-19 19:52:46.5798 INFO Returned all owners from database
+2020-09-19 19:52:56.7584 INFO Returned all owners from database
+2020-09-19 19:53:13.3140 INFO Returned all owners from database
+2020-09-19 19:53:15.6398 INFO Returned all owners from database
+2020-09-19 19:53:17.8441 INFO Returned all owners from database
+2020-09-19 19:57:16.1236 INFO Returned all owners from database
+2020-09-19 19:57:23.3306 INFO Returned all owners from database
+2020-09-19 20:02:04.6679 INFO Returned all owners from database
+2020-09-19 20:02:27.8118 INFO Returned all owners from database
+2020-09-19 20:02:31.7566 INFO Returned all owners from database
+2020-09-19 20:05:14.8829 INFO Returned all owners from database
+2020-09-19 20:05:19.7450 INFO Returned all owners from database
+2020-09-19 20:05:22.7048 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 20:05:33.7268 INFO Returned all owners from database
+2020-09-19 20:05:38.6636 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 20:06:05.7291 INFO Returned all owners from database
+2020-09-19 20:06:07.6071 INFO Returned Owner with id : b384b737-d047-4664-791e-08d85c9bc4a8.
+2020-09-19 20:06:36.3698 INFO Returned all owners from database
+2020-09-19 21:17:52.9261 INFO Returned all owners from database
+2020-09-19 21:18:00.6064 INFO Returned all owners from database
+2020-09-19 21:18:13.0922 INFO Returned all owners from database
+2020-09-19 21:18:30.5446 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-09-19 21:18:32.0640 INFO Returned all owners from database
+2020-09-19 21:18:33.6264 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-09-19 21:18:35.5741 INFO Returned all owners from database
+2020-09-19 21:18:36.5023 INFO Returned Owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-09-19 21:18:37.6678 INFO Returned all owners from database
+2020-09-19 21:18:41.0897 INFO Returned Owner with id : 81ed14dc-cc78-42c1-f3de-08d85caf2bf2.
+2020-09-19 21:18:49.4464 INFO Returned all owners from database
+2020-09-19 21:18:53.6083 INFO Returned Owner with id : 81ed14dc-cc78-42c1-f3de-08d85caf2bf2.
+2020-09-19 21:18:57.8451 INFO Returned all owners from database
+2020-09-19 21:19:12.7792 INFO Returned all owners from database
+2020-09-19 21:19:25.8714 INFO Returned all owners from database
+2020-09-19 21:19:30.7538 INFO Returned Owner with id : 774da2b4-82e4-44f7-f3df-08d85caf2bf2.
+2020-09-19 21:19:34.9274 INFO Returned all owners from database

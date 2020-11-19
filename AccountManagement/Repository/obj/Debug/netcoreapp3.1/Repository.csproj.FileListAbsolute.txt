@@ -1,0 +1,14 @@
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\bin\Debug\netcoreapp3.1\IRepository.dll
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\bin\Debug\netcoreapp3.1\IRepository.pdb
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

@@ -1,0 +1,12 @@
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\Abdul_Hamid_Rana\Angular\Angular_Project2\AccountManagement\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache

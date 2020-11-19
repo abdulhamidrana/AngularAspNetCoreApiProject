@@ -1,0 +1,2 @@
+2020-09-18 21:45:26.9471 INFO Returned all owners from database
+2020-09-18 23:19:58.3298 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
